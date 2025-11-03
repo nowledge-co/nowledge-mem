@@ -1,5 +1,3 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nowledge-co-nowledge-mem-badge.png)](https://mseep.ai/app/nowledge-co-nowledge-mem)
-
 # Nowledge Mem
 
 <div align="center">
